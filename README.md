@@ -1,10 +1,10 @@
-New York, NY, USA
+Awesome New York, NY, USA [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ================================================================================
-This is information about New York, NY, USA. Watch this repo to get notified about changes, especially ranking changes.
+This is a list of awesome people and things in New York, NY, USA. It is inspired by [awesome](https://github.com/sindresorhus/awesome). Currently, it includes the best programmers and projects. Watch this repo to get notified about changes, especially ranking changes.
 
-15 best programmers in New York, NY, USA
+Top 15 programmers in New York, NY, USA
 --------------------------------------------------------------------------------
-These are the 15 most influential programmers out of more than 250 programmers in New York, NY, USA.
+These are the 15 most influential programmers in New York, NY, USA. The score (in parentheses) is computed by combining projects, followers, and other information.
 
 1. John Resig [@jeresig](https://github.com/jeresig) (79)
 2. Jeremy Ashkenas [@jashkenas](https://github.com/jashkenas) (73)
@@ -22,4 +22,16 @@ These are the 15 most influential programmers out of more than 250 programmers i
 14. Juriy Zaytsev [@kangax](https://github.com/kangax) (40)
 15. Domenic Denicola [@domenic](https://github.com/domenic) (40)
 
-You can find the comprehensive statistics at the page for [New York, NY, USA](http://programmermap.com/area/new-york-ny-usa) at programmermap.com.
+You can find comprehensive statistics at the page for [New York, NY, USA](http://programmermap.com/area/new-york-ny-usa) at programmermap.com.
+
+5 most popular projects
+--------------------------------------------------------------------------------
+These are the five most popular projects (by stars) from local developers:
+
+1. [backbone](http://backbonejs.org) (22352)
+2. [underscore](http://underscorejs.org) (15104)
+3. [coffeescript](http://coffeescript.org/) (11510)
+4. [idiomatic.js](https://github.com/rwaldron/idiomatic.js) (9327)
+5. [masonry](http://masonry.desandro.com) (8280)
+
+The link is taken from the repository description. If no link is provided there, the repository url is given.
